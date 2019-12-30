@@ -20,10 +20,10 @@ const routes = [
   }
 ]
 
+// eslint-disable-next-line no-unused-vars
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
   routes
 })
-
 export default router

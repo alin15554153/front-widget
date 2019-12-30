@@ -55,6 +55,7 @@ li {
   margin: 0 10px;
 }
 a {
+  font-size: 2rem;
   color: #42b983;
 }
 </style>
